@@ -1,2 +1,2 @@
 # deploy new files on Apache
-sudo systemctl start apache2
+cp $(System.DefaultWorkingDirectory)/Vinyl3.demo/drop/index.html /var/www/html/
