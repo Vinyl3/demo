@@ -1,2 +1,2 @@
 # deploy new files on Apache
-sudo systemctl stop apache2
+sudo systemctl start apache2
